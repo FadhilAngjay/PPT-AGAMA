@@ -1,0 +1,6 @@
+{
+  "name": "PPT: Eksistensi & Tanggung Jawab Hamba",
+  "description": "Slide presentasi ringkas dan modern untuk tugas Pendidikan Agama Islam UNIKMA Cilacap oleh Fadhil Adi Saputro & Surya Junior Saputra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
